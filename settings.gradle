@@ -1,0 +1,3 @@
+include ':bitmaplibrary'
+include ':app'
+rootProject.name = "HomeWork"
